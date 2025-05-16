@@ -8,7 +8,6 @@ Determined, Liam scoured the code. At midnight, he discovered something eerie, a
 Tracing its origins, he uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
 "If you're reading this, you have the gift. Fix what must be fixed, Liam. And never stop listening."
 
-Luna decided table football was more important & ignored the chilling message.
-
+Liam decided table football was more important & ignored the chilling message.
 
 The End
